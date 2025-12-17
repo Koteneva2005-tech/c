@@ -19,7 +19,9 @@ Console calculator that combines basic arithmetic with more advanced features su
 
 ## Getting started
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/Koteneva2005-tech/c
+cd c
+pip install sympy
 python maim.py
 ```
 Press Enter on an empty command to exit the menu.
